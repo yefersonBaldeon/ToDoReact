@@ -28,7 +28,7 @@ function TaskCreator({ two }) {
 
         <div className="col-3">
 
-        <button className="btn btn-primary">send task</button>
+        <button className="btn btn-primary">Send Task</button>
 
         </div>
       </form>
