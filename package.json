@@ -1,4 +1,8 @@
 {
+
+
+  "homepage":"https://yefersonBaldeon.github.io/  ",
+
   "name": "seven",
   "private": true,
   "version": "0.0.0",
@@ -7,7 +11,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "bootstrap": "^5.3.2",
